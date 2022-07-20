@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  background-color: beige;
+}
+.pages {
+  display: flex;
+  justify-content: center;
+}
+.pages a {
+  margin-left: 20px;
+}
